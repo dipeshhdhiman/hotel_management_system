@@ -1,0 +1,23 @@
+# Backend (Java/Spring Boot)
+target/
+*.class
+*.jar
+*.war
+
+# Frontend (Node/React)
+node_modules/
+npm-debug.log
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Env & Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
